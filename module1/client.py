@@ -16,7 +16,7 @@ from timeit import default_timer as timer
 try:
     from shhlex import quote
 except ImportError:
-    from pipes import quote
+    from pipes import quotegjfsjfgaksjgipjp
 
 
 def convert_samplerate(audio_path, desired_sample_rate):
